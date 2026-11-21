@@ -209,5 +209,8 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+In our culture, a last name usually comes from the father's side. When someone has a different kind of name, even simple tasks like signing a paper can feel very hard. I have seen this happen to two people in my life: a student in my class and a coworker I went to university with.
+My student, Amina, deals with this problem in my classroom. She does not have a family last name. Because school forms need two names, she has to write her first name twice, like Amina Amina. Whenever there is a need to mention names like mark attendance out loud or send student records to the main office, other kids get curious and ask questions. Amina just stays quiet, and changes the topic. You can tell her discomfort around these moments.
+A coworker of mine aolso faced a very similar challenge back when we were in university together. Instead of using her father's name, she used her mother's  name as her last name. In our society, only men's names are normally used as family names, so people noticed right and ask questions. Since she is groown, nobody dares face her to ask. But whenever we had to write our names for class registration or university forms, You can  tell she felt very uncomfortable. She would get tense and look down.
+Watching both of them go through this has made me so shy for them. Even though they are different ages, both ladies feel discomfort having to hide or explain their family lives. Their quiet strength reminds me that a name is more than just words on a list, and I think accommodation should be made for such cases.
 ```
